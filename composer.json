@@ -1,0 +1,24 @@
+{
+    "name": "ryantxr/browser-preferred-lang",
+    "description": "Determines preferred language",
+    "keywords": ["template", "localization", "language"],
+    "license": "DBAD",
+    "authors": [
+        {
+            "name": "Ryan Teixeira",
+            "email": "ryantxr@blazecore.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=7.1"
+    },
+    "require-dev": {
+		"phpunit/phpunit": "6.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ryantxr\\BrowserPreferredLang\\": "src/"
+        }
+    }
+}
