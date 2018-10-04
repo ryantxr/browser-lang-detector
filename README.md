@@ -10,3 +10,13 @@ $p = new PreferredLang;
 $langs = $p->get(['en', 'zh-cn', 'es'], $_SERVER['HTTP_ACCEPT_LANGUAGE']);
 print_r($langs);
 ```
+
+Output
+
+```text
+(
+    [en] => 0.8
+    [es] => 0.4
+    [zh-cn] => 0.3
+)
+```
