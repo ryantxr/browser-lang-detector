@@ -2,7 +2,7 @@
     "name": "ryantxr/browser-preferred-lang",
     "description": "Determines preferred language",
     "keywords": ["template", "localization", "language"],
-    "license": "DBAD",
+    "license": "MIT",
     "authors": [
         {
             "name": "Ryan Teixeira",
