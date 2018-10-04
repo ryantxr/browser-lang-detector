@@ -20,3 +20,8 @@ Output
     [zh-cn] => 0.3
 )
 ```
+
+Installing
+----------
+
+`composer create-project ryantxr/browser-preferred-lang`
