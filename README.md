@@ -24,4 +24,4 @@ Output
 Installing
 ----------
 
-`composer create-project ryantxr/browser-preferred-lang`
+`composer require ryantxr/browser-preferred-lang`
